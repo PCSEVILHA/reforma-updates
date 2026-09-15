@@ -1,11 +1,12 @@
 {
-  "versao": "3.3",
+  "versao": "3.3.1",
   "data": "2026-09-14",
-  "download_url": "https://github.com/PCSEVILHA/reforma-updates/releases/download/v3.3/Instalador_Assistente_Reforma_Uniao_v3_3.exe",
+  "download_url": "https://github.com/PCSEVILHA/reforma-updates/releases/download/v3.3.1/Instalador_Assistente_Reforma_Uniao_v3_3_1.exe",
   "novidades": [
     "Termo de responsabilidade com comprovante",
     "Alíquotas sincronizadas com o escritório",
-    "Ativação pelo CNPJ"
+    "Ativação pelo CNPJ",
+    "Zona Franca, Areas de Livre Comercio e exportacao seguem o CFOP"
   ],
   "obrigatoria": false
 }
