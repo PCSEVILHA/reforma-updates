@@ -1,11 +1,11 @@
 {
-  "versao": "3.0",
-  "data": "2026-06-26",
+  "versao": "3.3",
+  "data": "2026-09-14",
   "download_url": "https://github.com/PCSEVILHA/reforma-updates/releases/latest",
   "novidades": [
-    "Classificação em lote",
-    "Linha do tempo da Reforma",
-    "Calculadora de impacto"
+    "Termo de responsabilidade com comprovante",
+    "Alíquotas sincronizadas com o escritório",
+    "Ativação pelo CNPJ"
   ],
   "obrigatoria": false
 }
