@@ -1,14 +1,15 @@
 {
-  "versao": "3.4",
+  "versao": "3.4.1",
   "data": "2026-10-09",
-  "download_url": "https://github.com/PCSEVILHA/reforma-updates/releases/download/v3.4/Instalador_Assistente_Reforma_Uniao_v3_4.exe",
-  "sha256": "881d98de96834ad86611e90df6615911be5ecd07d6655fa86ed6280a0119ce72",
+  "download_url": "https://github.com/PCSEVILHA/reforma-updates/releases/download/v3.4.1/Instalador_Assistente_Reforma_Uniao_v3_4_1.exe",
+  "sha256": "aa35c39e1ce86e58e32469ac16574f6ba33496e84c8b32f0018e39ef519fee44",
   "novidades": [
     "Termo de responsabilidade com comprovante",
     "Alíquotas sincronizadas com o escritório",
     "Ativação pelo CNPJ",
     "Zona Franca, Areas de Livre Comercio e exportacao seguem o CFOP",
-    "Auditar NFS-e: confere a NFS-e nacional contra as tabelas oficiais, com PDF e Excel"
+    "Auditar NFS-e: confere a NFS-e nacional contra as tabelas oficiais, com PDF e Excel",
+    "Auditar NFS-e: laudo lista todos os NBS do item, com atalho para a Consulta de Servicos"
   ],
   "obrigatoria": false
 }
