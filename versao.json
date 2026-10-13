@@ -1,9 +1,9 @@
 {
-  "versao": "3.5",
-  "data": "2026-10-10",
-  "download_url": "https://github.com/PCSEVILHA/reforma-updates/releases/download/v3.5/Instalador_Assistente_Reforma_Uniao_v3_5.exe",
-  "sha256": "05e84c8e3a37088bf8b917ea8b3727805a414e7af595b924b0bca2d75d921474",
-  "tamanho_bytes": 91543024,
+  "versao": "3.6",
+  "data": "2026-10-13",
+  "download_url": "https://github.com/PCSEVILHA/reforma-updates/releases/download/v3.6/Instalador_Assistente_Reforma_Uniao_v3_6.exe",
+  "sha256": "01faaf9376aed0c95a26f5e8f7025be55364495c396d9f86d17d70a7854e4638",
+  "tamanho_bytes": 91559361,
   "novidades": [
     "Termo de responsabilidade com comprovante",
     "Alíquotas sincronizadas com o escritório",
@@ -15,7 +15,13 @@
     "Código de serviço com subitem municipal (14.01.01)",
     "Auditar NFS-e: arquivos que não são NFS-e fora do placar, histórico de auditorias e pendência marcada como tratada",
     "CNPJ alfanumérico na exibição",
-    "Faixa de atualização com motivo da falha e download pelo navegador"
+    "Faixa de atualização com motivo da falha e download pelo navegador",
+    "Operações sem IBS e CBS (remessas, transferências, isenções, suspensões) mostram a faixa SEM IBS E CBS, sem alíquota cheia confundindo",
+    "Redução de 100% mostra \"reduzida a zero\", para não confundir com isenção",
+    "Tabela cClassTrib na versão 1.70 (01/10/2026) e CFOPs de remessa em 410999",
+    "Saúde das bases preenchida já na abertura, na Manutenção das Bases",
+    "O termo de responsabilidade não é mais pedido a cada atualização",
+    "Histórico de auditorias de NFS-e volta a aparecer após Limpar arquivos"
   ],
   "obrigatoria": false
 }
