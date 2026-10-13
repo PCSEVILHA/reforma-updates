@@ -2,8 +2,8 @@
   "versao": "3.6",
   "data": "2026-10-13",
   "download_url": "https://github.com/PCSEVILHA/reforma-updates/releases/download/v3.6/Instalador_Assistente_Reforma_Uniao_v3_6.exe",
-  "sha256": "01faaf9376aed0c95a26f5e8f7025be55364495c396d9f86d17d70a7854e4638",
-  "tamanho_bytes": 91559361,
+  "sha256": "e0c98b92ef5fcd9f7773028373bf690c11b55bc19b9a81b745b18932429b7e32",
+  "tamanho_bytes": 91555009,
   "novidades": [
     "Termo de responsabilidade com comprovante",
     "Alíquotas sincronizadas com o escritório",
@@ -21,7 +21,8 @@
     "Tabela cClassTrib na versão 1.70 (01/10/2026) e CFOPs de remessa em 410999",
     "Saúde das bases preenchida já na abertura, na Manutenção das Bases",
     "O termo de responsabilidade não é mais pedido a cada atualização",
-    "Histórico de auditorias de NFS-e volta a aparecer após Limpar arquivos"
+    "Histórico de auditorias de NFS-e volta a aparecer após Limpar arquivos",
+    "Selos e chips com cantos arredondados em todas as telas"
   ],
   "obrigatoria": false
 }
