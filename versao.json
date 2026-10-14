@@ -1,9 +1,9 @@
 {
-  "versao": "3.6.1",
+  "versao": "3.6.2",
   "data": "2026-10-14",
-  "download_url": "https://github.com/PCSEVILHA/reforma-updates/releases/download/v3.6.1/Instalador_Assistente_Reforma_Uniao_v3_6_1.exe",
-  "sha256": "84b655327268ffcb24de5be181ebc6a32e568cfd7890c1a3f78cedc9fb761631",
-  "tamanho_bytes": 91569141,
+  "download_url": "https://github.com/PCSEVILHA/reforma-updates/releases/download/v3.6.2/Instalador_Assistente_Reforma_Uniao_v3_6_2.exe",
+  "sha256": "6b2ce7f2690e39e8d4cc1d1b25f4eed34f9a69f5fac4839f2558ee86545a0c4d",
+  "tamanho_bytes": 91573176,
   "novidades": [
     "Termo de responsabilidade com comprovante",
     "Alíquotas sincronizadas com o escritório",
@@ -25,7 +25,8 @@
     "Selos e chips com cantos arredondados em todas as telas",
     "Termo de responsabilidade pede o nome de quem aceita",
     "Busca das bases aceita código com ou sem ponto",
-    "Base CFOP v9: 5949 com opção de saída com cobrança"
+    "Base CFOP v9: 5949 com opção de saída com cobrança",
+    "Auditar NF-e: operações item a item (cesta básica, saída com cobrança, remessa em brinde) aparecem como cartões ITEM A ITEM, classificadas pelo NCM de cada produto"
   ],
   "obrigatoria": false
 }
