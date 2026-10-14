@@ -1,9 +1,9 @@
 {
-  "versao": "3.6",
-  "data": "2026-10-13",
-  "download_url": "https://github.com/PCSEVILHA/reforma-updates/releases/download/v3.6/Instalador_Assistente_Reforma_Uniao_v3_6.exe",
-  "sha256": "e0c98b92ef5fcd9f7773028373bf690c11b55bc19b9a81b745b18932429b7e32",
-  "tamanho_bytes": 91555009,
+  "versao": "3.6.1",
+  "data": "2026-10-14",
+  "download_url": "https://github.com/PCSEVILHA/reforma-updates/releases/download/v3.6.1/Instalador_Assistente_Reforma_Uniao_v3_6_1.exe",
+  "sha256": "3aca5ef839911e2f1085ab1d3fe4e999dfcfd48550643c939516cf7764e9c83a",
+  "tamanho_bytes": 91570408,
   "novidades": [
     "Termo de responsabilidade com comprovante",
     "Alíquotas sincronizadas com o escritório",
@@ -22,7 +22,10 @@
     "Saúde das bases preenchida já na abertura, na Manutenção das Bases",
     "O termo de responsabilidade não é mais pedido a cada atualização",
     "Histórico de auditorias de NFS-e volta a aparecer após Limpar arquivos",
-    "Selos e chips com cantos arredondados em todas as telas"
+    "Selos e chips com cantos arredondados em todas as telas",
+    "Termo de responsabilidade pede o nome de quem aceita",
+    "Busca das bases aceita código com ou sem ponto",
+    "Base CFOP v9: 5949 com opção de saída com cobrança"
   ],
   "obrigatoria": false
 }
