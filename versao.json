@@ -1,9 +1,9 @@
 {
-  "versao": "3.6.2",
-  "data": "2026-10-14",
-  "download_url": "https://github.com/PCSEVILHA/reforma-updates/releases/download/v3.6.2/Instalador_Assistente_Reforma_Uniao_v3_6_2.exe",
-  "sha256": "6b2ce7f2690e39e8d4cc1d1b25f4eed34f9a69f5fac4839f2558ee86545a0c4d",
-  "tamanho_bytes": 91573176,
+  "versao": "3.6.3",
+  "data": "2026-11-06",
+  "download_url": "https://github.com/PCSEVILHA/reforma-updates/releases/download/v3.6.3/Instalador_Assistente_Reforma_Uniao_v3_6_3.exe",
+  "sha256": "a0763ed83ee0675b8350ce8cc021f0bf2aa73d2a61e576dd245acbec30ff4a7c",
+  "tamanho_bytes": 91534605,
   "novidades": [
     "Termo de responsabilidade com comprovante",
     "Alíquotas sincronizadas com o escritório",
@@ -26,7 +26,9 @@
     "Termo de responsabilidade pede o nome de quem aceita",
     "Busca das bases aceita código com ou sem ponto",
     "Base CFOP v9: 5949 com opção de saída com cobrança",
-    "Auditar NF-e: operações item a item (cesta básica, saída com cobrança, remessa em brinde) aparecem como cartões ITEM A ITEM, classificadas pelo NCM de cada produto"
+    "Auditar NF-e: operações item a item (cesta básica, saída com cobrança, remessa em brinde) aparecem como cartões ITEM A ITEM, classificadas pelo NCM de cada produto",
+    "Opções de tributação com título, explicação e selo próprios (pão francês, itens de acessibilidade)",
+    "Bases NCM e Exceções revisadas pelo rastreio dos Anexos I, VII e XV da LC 214/2025"
   ],
   "obrigatoria": false
 }
